@@ -9,5 +9,6 @@ namespace SkuleAdmDemoWeb.Models
         int kull;
         
         List<Fag> fag = new List<Fag>();
+        //42
     }
 }
