@@ -6,7 +6,7 @@ namespace SkuleAdmDemoWeb.Models
     public class Elev : Person
     {
         String klasse;
-        Int kull;
+        int kull;
         
         List<Fag> fag = new List<Fag>();
     }
