@@ -1,0 +1,8 @@
+
+.vscode/launch.json
+.vscode/tasks.json
+obj/project.assets.json
+obj/project.nuget.cache
+obj/SkuleAdmDemoWeb.csproj.nuget.dgspec.json
+obj/SkuleAdmDemoWeb.csproj.nuget.g.props
+obj/project.assets.json
